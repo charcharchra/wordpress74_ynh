@@ -1,0 +1,6 @@
+SOURCE_URL=https://downloads.wordpress.org/release/wordpress-6.1.1.zip
+SOURCE_SUM=088280b34aebc7331693e729d8e6b05eb8b9998c001a74caa9aaa1e09b5c3617
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=zip
+SOURCE_IN_SUBDIR=true
+SOURCE_EXTRACT=true
